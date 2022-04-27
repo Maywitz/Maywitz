@@ -7,7 +7,7 @@
  |_|  |_/_/    \_\|_|      \/  \/   |_____|  |_|  /_____|
  ```
  
- 📩・Need help? Add In Jail Out Soon#0001 on [discord](https://discord.gg/dWsEDuGByY) or join the [discord server](https://discord.gg/dWsEDuGByY) and contact a staff member.
+ 📩・Need help? Add In Jail Out Soon#0001 on [discord](https://discord.gg/8TfaWhM2jr) or join the [discord server](https://discord.gg/8TfaWhM2jr) and contact a staff member.
  
  Latest project --> https://github.com/Maywitz/Maywitz-Grabber
  
