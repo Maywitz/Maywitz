@@ -14,4 +14,3 @@
  </a><img align="left" src="https://github-stats-card-p5pneh01x-maywitz.vercel.app/api/top-langs?username=Maywitz&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=8&custom_title=Top 8 Coding Languages" alt="Maywitz" /> </p>
  
 <a href="https://github.com/Maywitz" target="_blank"> <img src="https://discord.c99.nl/widget/theme-3/715385148941795458.png"/></a>
-
