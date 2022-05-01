@@ -9,7 +9,8 @@
  
  📩・Need help? Add In Jail Out Soon#0001 on [discord](https://discord.gg/qxt6aC8U2F) or join the [discord server](https://discord.gg/qxt6aC8U2F) and contact a staff member.
  
- Latest project --> https://github.com/Maywitz/Vulcan-Grabber
+ Latest open source (free) projects --> https://github.com/Maywitz/Vulcan-Grabber
+                                    --> https://github.com/Maywitz/Anthrax-Nuker
  
  </a><img align="left" src="https://github-stats-card-p5pneh01x-maywitz.vercel.app/api/top-langs?username=Maywitz&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=8&custom_title=Top 8 Coding Languages" alt="Maywitz" /> </p>
  
